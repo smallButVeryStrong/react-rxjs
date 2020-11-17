@@ -1,0 +1,9 @@
+.contain {
+    display: flex;
+    flex-direction: row;
+}
+
+.contain .item {
+    width: 200px;
+    margin-right: 30px;
+}
